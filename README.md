@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [renatoroger.cl](renatoroger.cl) and LinkedIn
 
-- ⚡ Fun fact **I like play airsoft**
+- ⚡ Fun fact **I like so much learn about programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
