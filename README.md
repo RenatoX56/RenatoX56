@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [renatoroger.cl](renatoroger.cl)
 
-- ⚡ Fun fact **I like play airsoft**
+- ⚡ Fun fact **I really like learn more languages of programing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
