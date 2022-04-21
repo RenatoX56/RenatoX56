@@ -5,13 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [renatoroger.cl](renatoroger.cl)
 
-- 📝 I regularly write articles on [renatoroger.cl](renatoroger.cl)
-
 - 💬 Ask me about **python, lua and web development**
 
 - 📫 How to reach me **contacto@renatoroger.cl**
 
-- 📄 Know about my experiences [renatoroger.cl](renatoroger.cl)
+- 📄 Know about my experiences [renatoroger.cl](renatoroger.cl) and LinkedIn
 
 - ⚡ Fun fact **I like play airsoft**
 
