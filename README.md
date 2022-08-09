@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [renatoroger.cl](renatoroger.cl)
 
-- 📝 I’m currently working in my own gaming community [popliferp.es](popliferp.es)
+- 📝 I’m currently working in my own gaming community [popliferp.com](popliferp.com)[popliferp.es](popliferp.es)[popliferp.cl](popliferp.cl)[popliferp.com.ar](popliferp.com.ar)
 
 - 💬 Ask me about **python, lua and web development**
 
